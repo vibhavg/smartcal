@@ -1,0 +1,26 @@
+
+SMART CALENDAR PROJECT PLAN
+
+
+Step 1:
+
+Create Calendar / Todo Application
+    
+    Sub-Steps:
+        
+        1. Create events with organizer
+        2. Create tasks that work with events 
+
+Step 2: 
+
+Have application send out reminders through Email, Google Voice (SMS)
+
+Step 3: 
+
+Have application that learns a persons schedule and can suggest a free time
+
+Step 4: 
+
+Gather usage statistics and optimize peoples schedules. 
+
+
